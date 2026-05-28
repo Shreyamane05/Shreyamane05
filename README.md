@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Shreya Mane
+
+<img width="2172" height="724" alt="b013fc44-89fb-4630-ab30-f01f89322c0b" src="https://github.com/user-attachments/assets/600092f8-3cb5-444b-8a99-e8b151c5254a" />
+ Hi, I'm Shreya Mane
 
 ### 🚀 Aspiring Product Manager • UI/UX Enthusiast • Web Developer
 
